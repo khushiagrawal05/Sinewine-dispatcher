@@ -1,0 +1,2 @@
+g++ -std=c++17 -O2 -pthread event_dispatcher.cpp -o event_dispatcher.exe
+./event_dispatcher.exe
